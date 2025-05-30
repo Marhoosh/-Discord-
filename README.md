@@ -1,4 +1,4 @@
-# -Discord-
+# DiscordChatKnowledgeBase
 基于Discord聊天记录的ai知识库，可以通过向知识库提问来获得问题答案，目前项目还在研究中。
 
 # 背景
